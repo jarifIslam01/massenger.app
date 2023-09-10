@@ -13,8 +13,7 @@ function App() {
       <Navber />
       <hr />
       <Routes>
-         {/* Other routes */}
-      <Route path="/login" element={<Login />} />
+      <Route path="" element={<Login />} />
         
         <Route
           path="/Chat"
